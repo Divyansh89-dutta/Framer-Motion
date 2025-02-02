@@ -1,8 +1,9 @@
-# React + Vite
+Framer Motion is a popular animation library for React that makes it easy to add smooth and performant animations to web applications. It provides a simple API to animate elements with physics-based motion, transitions, gestures, and scroll-based effects.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features of Framer Motion:
+Declarative Animations – Define animations directly in JSX with the animate prop.
+Gestures & Interactions – Handle hover, tap, drag, and while-in-view animations effortlessly.
+Layout Animations – Automatically animate elements when their layout changes.
+Scroll-Based Animations – Create effects triggered by scrolling.
+Variants – Define reusable animation states.
+Optimized Performance – Uses requestAnimationFrame for smooth motion.
